@@ -32,8 +32,8 @@ npm run preview
 
 Proje, dark ve light tema desteği içerir. Tema tercihi localStorage'da saklanır ve sayfa yenilendiğinde korunur.
 
-- Navbar'daki ay/güneş ikonuna tıklayarak tema değiştirebilirsiniz
-- Veya sağ taraftaki kart içindeki butonu kullanabilirsiniz
+- Navbar'daki Gece Modu yazan butonuna tıklayarak tema değiştirebilirsiniz
+
 
 ## Proje Yapısı
 
