@@ -665,6 +665,8 @@ footer {
         object-fit: cover;
         display: block;
       }
+
+      
     }
 
     .snippet-headline {
@@ -681,11 +683,16 @@ footer {
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
+
+   
   }
 
-  a {
-    text-decoration: none;
-  }
+   a {
+      text-decoration: none;
+    }
+
+
+ 
 
   .snippet-divider {
     width: 1px;

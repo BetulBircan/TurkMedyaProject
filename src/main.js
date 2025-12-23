@@ -104,7 +104,7 @@ function initNewsSnippets() {
     const newsData = [
         {
             image: haber1,
-            headline: "CHP'nin 'Cemevi' provokasyonuna sert tepki: Siyasi bühtandır",
+            headline: "Şehitlerimize dualarla veda... Başkan Erdoğan: Komutanlığın ötesinde duruşuyla çok değerliydi.",
             alt: "CHP'nin 'Cemevi' provokasyonuna sert tepki"
         },
         {
